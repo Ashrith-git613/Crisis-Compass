@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Crisis Compass",
+    "slug": "crisis-compass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#0D0D0D",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D0D"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.crisiscompass.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0D"
+      },
+      "package": "com.crisiscompass.app"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
