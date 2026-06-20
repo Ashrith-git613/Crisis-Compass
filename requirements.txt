@@ -1,0 +1,12 @@
+crawl4ai
+python-dotenv
+fastapi
+langchain
+langchain-community
+langchain-core
+langchain-openrouter
+serpapi
+uvicorn
+fpdf2
+qrcode[pil]
+pillow
